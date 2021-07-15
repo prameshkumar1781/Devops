@@ -1,1 +1,2 @@
 "This is FileB" 
+FileB version1
